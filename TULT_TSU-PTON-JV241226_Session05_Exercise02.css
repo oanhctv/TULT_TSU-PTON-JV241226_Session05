@@ -1,0 +1,13 @@
+.box {
+    width: 400px;
+    height: 25px;
+    background-color: rgb(167, 173, 176);
+    color:white;
+    padding-left: 10px;
+}
+h2 {
+    font-size: 15px;
+}
+.box:hover {
+    background-color: rgb(78, 77, 77);
+}
