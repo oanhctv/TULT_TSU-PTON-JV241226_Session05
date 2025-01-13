@@ -1,0 +1,12 @@
+.sum1 {
+    width: 60px;
+    height: 30px;
+    background-color:rgb(139, 135, 135) ;
+    color:black
+}
+div {
+    border-top: 2px solid red; 
+    border-right: 4px dotted rgb(172, 23, 172) ;
+    border-bottom: 4px double rgb(43, 145, 25);
+    border-left: 6px groove rgb(167, 31, 212);
+}
